@@ -1,41 +1,40 @@
-# Amigo Secreto 🎁
+# 🎁 Amigo Secreto Interativo
 
-Este é um aplicativo simples de **Amigo Secreto** feito com **HTML, CSS e JavaScript**.  
-Permite adicionar amigos, remover, salvar a lista no navegador e sortear um amigo aleatório.
-
----
-
-## 🚀 Funcionalidades
-- Adicionar amigos a uma lista.
-- Impede nomes duplicados.
-- Remover amigos com botão ❌.
-- Lista salva automaticamente no **localStorage** (não perde ao recarregar).
-- Sortear **um amigo aleatório**.
+O clássico **Amigo Secreto** ganhou uma repaginada! Agora a aplicação está mais moderna, divertida e cheia de interatividade.
 
 ---
 
-## 📂 Estrutura do Projeto
-```
-amigo-secreto/
-│── index.html      # Estrutura da página
-│── style.css       # Estilos da aplicação
-│── app.js          # Lógica em JavaScript
-```
----
+## ✨ O que mudou?
 
-## 🛠️ Como usar
-1. Abra o arquivo `index.html` em um navegador.
-2. Digite o nome de um amigo e clique em **Adicionar**.
-3. Após adicionar todos, clique em **Sortear amigo**.
-4. O resultado será exibido na tela.
+- Animações suaves que deixam tudo mais dinâmico  
+- Notificações coloridas no lugar dos alertas chatos do navegador  
+- Sons diferentes para cada ação (adicionar, sortear, resetar, erro)  
+- Botões com efeitos visuais e dicas rápidas (tooltips)  
+- Modal de confirmação estilizado antes de resetar a lista  
+- Validações inteligentes (sem nomes duplicados, lista vazia, etc.)  
 
 ---
 
-## 📌 Melhorias futuras
-- Permitir escolher quantos amigos sortear de uma vez.
-- Animação no sorteio para mais interatividade.
-- Exportar a lista de participantes.
+## 🚀 Experiência do Usuário
+
+- Visual mais bonito e intuitivo  
+- Feedback imediato em cada ação  
+- Funciona bem em qualquer dispositivo  
+- Sorteio com suspense (nomes embaralhando 🔀)  
 
 ---
 
-👨‍💻 Desenvolvido para aprendizado de **JavaScript + DOM + LocalStorage**.
+## 🎮 Como usar
+
+1. Digite o nome e pressione **Enter** ou clique em **Adicionar**  
+2. Clique em **Sortear amigo** (mínimo 2 participantes)  
+3. Se quiser, clique em **Resetar Lista** e confirme no modal  
+4. Aproveite os efeitos, sons e notificações 🎉  
+
+---
+
+## 📱 Compatibilidade
+
+- ✅ Navegadores modernos (Chrome, Firefox, Edge, Safari)  
+- ✅ Celulares, tablets e desktops  
+- ✅ Acessibilidade básica
